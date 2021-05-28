@@ -1,0 +1,34 @@
+1) Print numbers between 20 to 30 using while loop.
+2) Print your name 20 times using while loop.
+3) Print numbers 20,22,24,26,28,30 using while loop.
+4) Take input of ypur name and print.
+5) Take a number as an input and convert it into a number.
+6) Take a number input, check and print if number is positive or negative.
+7) Take two numbers input and if both of them are greater then 100 print "Greater than 100" else print "Less than hundred".
+8) Take a number input and print whether even or odd.
+9) In a range of numbers print numbers which are divisible by 4 but are not a multiple of 5.
+10) Remove empty string from the list of strings: list1=["Ironman","","Captain America","Thanos"]
+11) Take two lists as an input and combine the two lists into a single list containing elemets of both the lists.
+12) Convert the below string into a list and again join the list into a string. 
+     string = "I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless.
+               It’s frightening. Turns the legs to jelly. I ask you, to what end.
+               Dread it. Run from it. Destiny arrives all the same. And now, it's here. Or should I say, I am."
+13) Convert below string into a list and print every element of the list in upper case
+      string = "I can do this all day."
+14) Take a number input to a function andd print if it is even or odd.
+15) Take a number input to a function and print if the number is multiple of 4 or not.
+16) Write a function that can give maximum of three numbers and returm the maximun number.
+17) Write a function that takes a string and returns number of words in the string.
+18) Convert the below list into dictionaries:
+     list1=[1, 2, 3, 4, 5]
+     list2=[Ironman, Caption America, Thor, Spiderman, Doctor Strange.
+19) Create an empty dictionary and elements from 1 to 10 as keys and 101 to 110 as values.
+20) Write a program to collect multiples of 2, 4 and 6 in given range and store them in different lists.
+21) Write a program to find the sum of numbers in the given range.
+22) Write program to extract common elements from the following lists:
+      list1=[1,2,3,5,8,13,21,34,55,89]
+      list2=[1,2,3,4,5,6,7,8,9,10,11,12,13]
+23) Write a program to extract words that are having more than 3 characters in given list:
+       string=“One thing you can’t take away? I am Iron Man”
+24) Write a function to  convert hours into seconds.
+25) Write a program to capture the elements in the even position in a list.00.
