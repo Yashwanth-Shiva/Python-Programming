@@ -1,6 +1,5 @@
-name=input("Enter your name:")
-num=int(input("Enter number of times it should be printed:"))
+name="Captain America"
 i=1
-while i<=num:
+while i<=20:
     print(name)
     i=i+1
