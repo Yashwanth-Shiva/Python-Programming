@@ -1,0 +1,2 @@
+strg=input()
+eval(strg)
