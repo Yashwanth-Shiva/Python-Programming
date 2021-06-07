@@ -7,7 +7,8 @@
 7) Take two numbers input and if both of them are greater then 100 print "Greater than 100" else print "Less than hundred".
 8) Take a number input and print whether even or odd.
 9) In a range of numbers print numbers which are divisible by 4 but are not a multiple of 5.
-10) Remove empty string from the list of strings: list1=["Ironman","","Captain America","Thanos"]
+10) Remove empty string from the list of strings: list1=["Ironman","","Captain America","Thanos"].
+       Try the same when there are 2 empty strings
 11) Take two lists as an input and combine the two lists into a single list containing elemets of both the lists.
 12) Convert the below string into a list and again join the list into a string. 
      string = "I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless.
