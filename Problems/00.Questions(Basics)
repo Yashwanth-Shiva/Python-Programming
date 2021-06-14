@@ -4,7 +4,7 @@
 4) Take input of your name and print.
 5) Take a number as an input and convert it into a number.
 6) Take a number input, check and print if number is positive or negative.
-7) Take two numbers input and if both of them are greater then 100 print "Greater than 100" else print "Less than hundred".
+7) Take two numbers input and if both of them are greater than 100 print "Greater than 100" else print "Less than hundred".
 8) Take a number input and print whether even or odd.
 9) In a range of numbers print numbers which are divisible by 4 but are not a multiple of 5.
 10) Remove empty string from the list of strings: list1=["Ironman","","Captain America","Thanos"].
