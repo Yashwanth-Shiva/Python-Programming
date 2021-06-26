@@ -1,0 +1,5 @@
+a=int(input())
+sA=set(map(int,input().split()))
+b=int(input())
+sB=set(map(int,input().split()))
+print(len(sA.union(sB)))
