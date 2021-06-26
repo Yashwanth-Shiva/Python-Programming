@@ -1,0 +1,5 @@
+n=input()
+sN=set(map(int,input().split()))
+m=input()
+sM=set(map(int,input().split()))
+print(len(sN.difference(sM)))
