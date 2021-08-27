@@ -11,3 +11,17 @@ def timeConversion(n):
           
 n=input()
 timeConversion(n)
+
+#Method 2
+def timeConversion(n):
+    s=n[0:-2]
+    s=s.split(":")
+    if s[0]=="12" and n[-2]=="A":
+        s[0]="00"
+    elif s[0]!="12" and n[-2]=="P":
+        s[0]=str(int(s[0])+12)
+    print((":").join(s))
+    
+          
+n=input()
+timeConversion(n)
