@@ -20,4 +20,4 @@ for line in fh:
     m_list.append(line[1])
 for i in m_list:
     print(i)
-print("There were",count,"lines in the file with From as the first word"
+print("There were",count,"lines in the file with From as the first word")
