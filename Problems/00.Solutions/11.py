@@ -12,5 +12,5 @@ for i in range(n2):
 If u want to add list 2 as a seperate element use append
 If u want to combine both the lists into a single list use extend
 """
-    list1.extend(list2)
+list1.extend(list2)
 print(list1)
