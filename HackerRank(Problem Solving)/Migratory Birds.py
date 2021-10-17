@@ -11,3 +11,19 @@ for i in sorted(d1, key=d1.get, reverse=True):
     l2.append(i)
 #printing first element which is our answer
 print(l2[0])
+
+
+#Method 2
+def migratoryBirds(arr):
+    c=n=0
+    for i in set(arr):
+        x=arr.count(i)
+        if x>c:
+            n=i
+            c=x
+    return n
+        
+n=int(input())
+arr=list(map(int, input().split()))
+res=migratoryBirds(arr)
+print(res)
