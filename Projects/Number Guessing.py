@@ -1,4 +1,5 @@
 #Number Guessing
+import sys
 def checknum(x):
     print
     y=int(input("Enter your guess : "))
@@ -48,7 +49,7 @@ while True:
             else:
                 print("\nHint 2 : The number is not prime")
         elif count==5:
-            print("Sorry your turns are over.\nYour Score is 0")
-            print("The correct answer is:",x)
-            exit(1)
+            print("\nSorry your turns are over.\nScore = 0")
+            print("\nThe correct answer is:",x)
+            sys.exit()
         continue
