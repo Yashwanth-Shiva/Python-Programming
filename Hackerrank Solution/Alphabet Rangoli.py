@@ -50,3 +50,13 @@ for i in (list2[::-1]):
     print("-".join(i).center(4*n-3).replace(" ","-"))
 for i in (list2[1:]):
     print("-".join(i).center(4*n-3).replace(" ","-"))
+
+#or
+
+s="abcdefghijklmnopqrstuvwxyz"
+n=int(input())
+l=[]
+for i in range(n):
+    x=("-").join(s[i:n])
+    l.append((x[::-1]+x[1:]).center(4*n-3,"-"))
+print(("\n").join(l[::-1]+l[1:]))
